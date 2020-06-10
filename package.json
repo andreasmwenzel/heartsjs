@@ -1,0 +1,27 @@
+{
+  "name": "hearts",
+  "version": "1.0.0",
+  "description": "An event based hearts playing card game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreasmwenzel/heartsjs.git"
+  },
+  "keywords": [
+    "cards",
+    "hearts",
+    "events"
+  ],
+  "author": "Andreas Wenzel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreasmwenzel/heartsjs/issues"
+  },
+  "homepage": "https://github.com/andreasmwenzel/heartsjs#readme",
+  "dependencies": {
+    "cards": "^1.0.2"
+  }
+}
