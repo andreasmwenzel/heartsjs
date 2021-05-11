@@ -23,6 +23,6 @@
   "homepage": "https://github.com/andreasmwenzel/heartsjs#readme",
   "dependencies": {
     "cards": "^1.0.2",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
